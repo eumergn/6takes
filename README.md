@@ -28,7 +28,7 @@
 
 ## 📌 About the Project
 
-**6 Takes!** is a faithful digital adaptation of the popular card game "6 qui prend!". Developed as a university project, it offers a **real-time online experience**, as well as a **solo mode with bots**, a responsive interface, and complete game logic.  
+**6 Takes!** is a faithful digital adaptation of the popular card game "6 nimmt!". Developed as a university project, it offers a **real-time online experience**, as well as a **solo mode with bots**, a responsive interface, and complete game logic.  
 The architecture is **client-server**, fully open-source, and designed with scalability and cross-platform deployment in mind.
 
 ---
@@ -87,7 +87,7 @@ node server
 
 ```bash
 # Clone the client repo
-git clone https://git.unistra.fr/kylian.gerard/6-qui-prend-pji-3a.git
+git clone https://github.com/eumergn/6takes.git
 cd client
 
 # Open with Godot (v4.x recommended)
