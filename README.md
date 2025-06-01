@@ -115,7 +115,7 @@ You can play the game directly online via our hosted site:
 | Name                     | Main Role                                      |
 |--------------------------|------------------------------------------------|
 | [Kylian GERARD](https://git.unistra.fr/kylian.gerard)       | 👑 Project Manager, website, deployment, integration |
-| [Omer Ali ARMAGAN](https://git.unistra.fr/armagan)          | 🧠 Backend API & Game Logic (Node.js + Godot)         |
+| [Omer ARMAGAN](https://git.unistra.fr/armagan)              | 🧠 Backend API & Game Logic (Node.js + Godot)         |
 | [Mamadou Mouctar BAH](https://git.unistra.fr/bahmm)         | 🎮 Solo Mode & Client Support                         |
 | [Lounas CHIKHI](https://git.unistra.fr/lounas.chikhi)       | ⚙️ WebSocket, bots, game logic (Node.js)                  |
 | [Darren DELGADO](https://git.unistra.fr/ddelgado)           | 🎨 Visual Design, mascot, UI, animations                 |
