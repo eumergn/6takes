@@ -65,7 +65,7 @@ The architecture is **client-server**, fully open-source, and designed with scal
 
 ```bash
 # Clone the server repo
-git clone https://git.unistra.fr/kylian.gerard/6-qui-prend-pji-3a.git
+git clone https://github.com/eumergn/6takes.git
 cd server
 
 # Install dependencies
